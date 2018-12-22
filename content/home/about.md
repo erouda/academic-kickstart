@@ -1,40 +1,35 @@
 +++
 # About/Biography widget.
-widget = "about"
-active = true
+widget = "about" 
+active = true 
 date = 2016-04-20T00:00:00
 
 # Order that this section will appear in.
 weight = 5
 
 # List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
+[interests] 
+	interests = [ "Visual and multisensory perception", 
+	"Effects of aging on perception and cognition", 
+	"Behavioural interventions, perceptual learning", 
+	"Psychophysics, EEG"]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+[[education.courses]] 
+	course = "PhD in Psychology" 
+	institution = "McMaster University" 
+	year = 2013
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+[[education.courses]] 
+	course = "BSc in Mathematics & Statistics" 
+	institution = "McGill University" 
+	year = 2006
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
-# Biography
+# About me
+I am a scientific associate at the Rotman Research Institute, where my work currently focuses on 
+examining perception in healthy older adults and those with cognitive impairment and dementia, as well as evaluating the effects of a mindfulness meditation intervention. 
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+This website is a work in progress - stay tuned for more information about past and current projects coming up in the near future. Feel free to contact me at any time. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
